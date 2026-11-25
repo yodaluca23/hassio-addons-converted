@@ -1,0 +1,14 @@
+arch:
+  - amd64
+  - aarch64
+boot: auto
+description: ''
+environment:
+  HAOS_CONVERTER_BASHIO_VERSION: 0.20.0
+  HAOS_CONVERTER_PM: apk
+name: ATVloadly
+slug: atvloadly
+startup: application
+url: 'https://github.com/bitxeno/atvloadly'
+version: latest
+webui: 'http://[HOST]:[PORT:5533]/'

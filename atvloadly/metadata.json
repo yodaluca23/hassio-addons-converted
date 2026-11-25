@@ -1,0 +1,11 @@
+{
+    "allow_user_env": false,
+    "auto_update": false,
+    "bashio_version": "0.20.0",
+    "detected_pm": "apk",
+    "has_startup_script": false,
+    "original_cmd": "",
+    "quirks": false,
+    "security_rating": 5,
+    "version_fixation": false
+}
